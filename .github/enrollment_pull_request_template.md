@@ -1,6 +1,6 @@
 My name is <FirstName LastName> and I'd like to formally participate to the <projectName> project.
   
-  By making a Contribution to this repository, I agree to the terms of the following documents located at https://github.com/finos/CommunitySpecification:
+  By making a Contribution to this repository, I agree to the terms of the following documents located at https://github.com/finos/standards-project-blueprint/:
 
 (a) Community Specification License 1.0 (.0_Community_Specification_License-v1.md)
 
