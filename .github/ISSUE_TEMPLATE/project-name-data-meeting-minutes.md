@@ -1,16 +1,16 @@
 ---
-name: Currency Ref Data Meeting Minutes
+name: {project name} Meeting Minutes
 about: To track {project name} meeting agenda and attendance
-title: MMDDYYYY Currency Ref Data Meeting Minutes
+title: MMDDYYYY {project name} Meeting Minutes
 labels: meeting
 assignees: ''
 
 ---
 
 ---
-name: "\U0001F91DCurrency Ref Data Meeting Minutes"
+name: "\U0001F91D{project name} Meeting Minutes"
 about: To track {project name} meeting agenda and attendance
-title: MMM DD YYYY - Currency Ref Data Meeting Minutes
+title: MMM DD YYYY - {project name} Meeting Minutes
 labels: {project name}, meeting
 assignees: ''
 
