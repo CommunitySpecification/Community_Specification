@@ -1,6 +1,6 @@
 [![FINOS - Forming](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-forming.svg)](https://finosfoundation.atlassian.net/wiki/display/FINOS/Forming)
 
-# {project name} 
+# {standard name}
 
 Short blurb about what your project does.
 
@@ -14,15 +14,13 @@ List the roadmap steps; alternatively link the Confluence Wiki page where the pr
 2. Item 2
 3. ....
 
-# Get Involved: Contribute to {project name}
-Make sure to read the [governance documentation](https://{gitlab}.com/finos/{project slug}/blob/master/governance-documents/Getting%20Started.md).
+# Get Involved: Contribute to {standard name}
+There are several ways to contribute to {standard name}:
 
-There are several ways to contribute to {project name}:
-
-* **Join the next meeting**: participants of the {project name} workstream meet... {set meeting cadance}.
+* **Join the next meeting**: participants of the {standard name} workstream meet... {meeting cadance}.
 
 Find the next meeting on the [FINOS projects calendar]({https://calendar.google.com/calendar/u/0/embed?src=finos.org_fac8mo1rfc6ehscg0d80fi8jig@group.calendar.google.com&ctz=America/New_York}) and browse [past meeting minutes in GitHub](https://github.com/finos/{project-slug}/labels/meeting).
 
-* **Join the mailing list**: Communications for the {project name} project are conducted through the {project name}@finos.org mailing list. Please email [{project name}@finos.org](mailto:{project name}@finos.org) to join the mailing list.
+* **Join the mailing list**: Communications for the {standard name} project are conducted through the {project name}@finos.org mailing list. Please email [{standard name}@finos.org](mailto:{standard name}@finos.org) to join the mailing list.
 
-* **Raise an issue**: if you have any questions or suggestions, please [raise an issue](https://{gitlab}.com/finos/{project-slug}/issues/new)
+* **Raise an issue**: if you have any questions or suggestions, please [raise an issue](https://github.com/finos/{standard slug}/issues/new/choose)
