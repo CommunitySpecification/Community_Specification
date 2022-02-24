@@ -17,7 +17,7 @@ assignees: ''
 ---
 
 # {project name} Meeting
-[{project name} overview, roadmap and background](https://gitlab.com/finos/{project slug}/readme.md)
+[{project name} overview, roadmap and background](https://{gitlab}.com/finos/{project slug}/readme.md)
 
 ## Date
 YYYYMMDD - 10am ET / 3pm GMT

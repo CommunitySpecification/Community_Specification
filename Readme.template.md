@@ -25,4 +25,4 @@ Find the next meeting on the [FINOS projects calendar]({https://calendar.google.
 
 * **Join the mailing list**: Communications for the {project name} project are conducted through the {project name}@finos.org mailing list. Please email [{project name}@finos.org](mailto:{project name}@finos.org) to join the mailing list.
 
-* **Raise an issue**: if you have any questions or suggestions, please [raise an issue](https://{gitlub}.com/finos/{project-slug}/issues/new)
+* **Raise an issue**: if you have any questions or suggestions, please [raise an issue](https://{gitlab}.com/finos/{project-slug}/issues/new)
