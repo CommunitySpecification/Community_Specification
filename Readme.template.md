@@ -1,4 +1,4 @@
-[![FINOS - Forming](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-forming.svg)](https://finosfoundation.atlassian.net/wiki/display/FINOS/Forming)
+[![FINOS - Forming](https://github.com/finos/community/blob/master/governance/Software-Projects/Project-Lifecycle.md#forming-projects-optional)
 
 # {standard name}
 
