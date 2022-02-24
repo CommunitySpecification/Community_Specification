@@ -14,7 +14,9 @@ List the roadmap steps; alternatively link the Confluence Wiki page where the pr
 2. Item 2
 3. ....
 
-# Get Involved: Contribute to CurRef Data
+# Get Involved: Contribute to {project name}
+Make sure to read the [governance documentation](https://{gitlab}.com/finos/{project slug}/blob/master/governance-documents/Getting%20Started.md).
+
 There are several ways to contribute to {project name}:
 
 * **Join the next meeting**: participants of the {project name} workstream meet... {set meeting cadance}.
@@ -23,4 +25,4 @@ Find the next meeting on the [FINOS projects calendar]({https://calendar.google.
 
 * **Join the mailing list**: Communications for the {project name} project are conducted through the {project name}@finos.org mailing list. Please email [{project name}@finos.org](mailto:{project name}@finos.org) to join the mailing list.
 
-* **Raise an issue**: if you have any questions or suggestions, please [raise an issue](https://github.com/finos/{project-slug}/issues/new/choose)
+* **Raise an issue**: if you have any questions or suggestions, please [raise an issue](https://{gitlub}.com/finos/{project-slug}/issues/new)

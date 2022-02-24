@@ -1,5 +1,5 @@
 # Participants enrolled in the {project name} project
-Below is the list of [participants](https://github.com/finos/curref-data/blob/testing-updates/governance-documents/5._Governance.md#1roles) in the {project name} project, who have committed to the [Community Specification Contributor License Agreement](https://github.com/finos/curref-data/blob/testing-updates/governance-documents/.0_CS_Contributor_License_Agreement.md).
+Below is the list of [participants](https://{gitlab}.com/finos/{project slug}/blob/testing-updates/governance-documents/5._Governance.md#1roles) in the {project name} project, who have committed to the [Community Specification Contributor License Agreement](https://{gitlab}.com/finos/{project slug}/blob/testing-updates/governance-documents/.0_CS_Contributor_License_Agreement.md).
 
 ## Participants
 - Name, organization, Date of enrollment: MMM/DD/YYYY
@@ -16,13 +16,13 @@ Below is the list of [participants](https://github.com/finos/curref-data/blob/te
 
 
 ## How to enroll as a participant
-In order to enroll as a participant in the {project name} project, please submit a Pull Request to this [participants.md](https://github.com/finos/curref-data/blob/master/governance-documents/participants.md) file listing your name, organization, and date of enrollment, by following the steps described below. 
+In order to enroll as a participant in the {project name} project, please submit a Pull Request to this [participants](#participants) file listing your name, organization, and date of enrollment, by following the steps described below. 
 
 _:question:Please email help@finos.org if you encounter issues or have questions._
 
-**Step 1. Go to  the [participants.md](https://github.com/finos/curref-data/blob/master/governance-documents/participants.md) file** and make sure you are signed into your GitHub account
+**Step 1. Go to  the [participants](#participants) file** and make sure you are signed into your GitLab account
 
-**Step 2. Click on the :pen: icon at the top right of the the [participants.md](https://github.com/finos/curref-data/blob/master/governance-documents/participants.md) file**
+**Step 2. Click on the :pen: icon at the top right of the the [participants](#participants) file**
     
 [<img src="https://user-images.githubusercontent.com/51138318/151390328-00e6ac68-6069-493e-b536-d329fa9cc51e.png" width="500">](https://user-images.githubusercontent.com/51138318/151390328-00e6ac68-6069-493e-b536-d329fa9cc51e.png)
     
@@ -34,7 +34,7 @@ _:question:Please email help@finos.org if you encounter issues or have questions
     
 [<img src="https://user-images.githubusercontent.com/51138318/151390757-69ca6d4a-8972-4134-9239-caf02d8fb105.png" width="500">](https://user-images.githubusercontent.com/51138318/151390757-69ca6d4a-8972-4134-9239-caf02d8fb105.png)
 
-**Step 5. Create a Pull Request** to request that the changes you made to the [participants.md](https://github.com/finos/curref-data/blob/master/governance-documents/participants.md) file be added to the "master" branch of the https://github.com/finos/curref-data repository
+**Step 5. Create a Pull Request** to request that the changes you made to the [participants](#participants) file be added to the "master" branch of the https://{gitlab}.com/finos/{project slug} repository
 
 **Step 5.1. Click on "Pull Request" in the GitHub navigation bar**
 
