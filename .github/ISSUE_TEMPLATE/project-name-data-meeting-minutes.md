@@ -1,23 +1,23 @@
 ---
-name: {project name} Meeting Minutes
-about: To track {project name} meeting agenda and attendance
-title: MMDDYYYY {project name} Meeting Minutes
+name: {standard name} Meeting Minutes
+about: To track {standard name} meeting agenda and attendance
+title: MMDDYYYY {standard name} Meeting Minutes
 labels: meeting
 assignees: ''
 
 ---
 
 ---
-name: "\U0001F91D{project name} Meeting Minutes"
-about: To track {project name} meeting agenda and attendance
-title: MMM DD YYYY - {project name} Meeting Minutes
-labels: {project name}, meeting
+name: "\U0001F91D{standard name} Meeting Minutes"
+about: To track {standard name} meeting agenda and attendance
+title: MMM DD YYYY - {standard name} Meeting Minutes
+labels: {standard name}, meeting
 assignees: ''
 
 ---
 
-# {project name} Meeting
-[{project name} overview, roadmap and background](https://github.com/finos/secref-data#currency-reference-data)
+# {standard name} Meeting
+[{standard name} overview, roadmap and background](https://{github}.com/finos/{project slug}/readme.md)
 
 ## Date
 YYYYMMDD - 10am ET / 3pm GMT
