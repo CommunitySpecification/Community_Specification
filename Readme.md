@@ -1,8 +1,8 @@
-# Community Specification
+# Sharealedger Community Specification
 
 ## What is the Community Specification For?
 
-The Community Specification process is a repository-based approach for creating standards and specifications in version control systems, such as Git. 
+The Community Specification process is a repository-based approach for creating standards and specifications in version control systems, such as Git. Sharealedger uses it for standard's based sub-projects led by Sharealedger.
 
 ## What is the benefit?
 
@@ -10,7 +10,7 @@ The Community Specification allows you to start a specification development effo
 
 ## How to get started?
 
-Instructions for using the Community Specification are included in the ..Getting Started.md file.
+Begin by enhancing the 2._Scope.md document in this project.  If starting a new Sharealedger project, fork the (original community specification)[https://github.com/CommunitySpecification/Community_Specification], and follow the get started instructions in it.
 
 ## Could I just use an open source license for my specifications? Why should I use a specification license?
 
