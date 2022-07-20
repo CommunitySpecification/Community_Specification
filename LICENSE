@@ -1,4 +1,4 @@
-# Community Specification License 1.0
+# FINOS Specification License 1.0
 
 **The Purpose of this License.**  This License sets forth the terms under which 1) Contributor will participate in and contribute to the development of specifications, standards, best practices, guidelines, and other similar materials under this Working Group, and 2) how the materials developed under this License may be used.  It is not intended for source code.  Capitalized terms are defined in the License’s last section.
 
@@ -70,7 +70,7 @@ This patent licensing commitment does not apply to those claims subject to Contr
 
 **9.3.	Contribution.**  “Contribution” means any original work of authorship, including any modifications or additions to an existing work, that Contributor submits for inclusion in a Draft Specification, which is included in a Draft Specification or Approved Specification.
 
-**9.4.	Contributor.** “Contributor” means any person or entity that has indicated its acceptance of the License 1) by making a Contribution to the Specification, or 2) by entering into the Community Specification Contributor License Agreement for the Specification.  Contributor includes its Affiliates, assigns, agents, and successors in interest.
+**9.4.	Contributor.** “Contributor” means any person or entity that has indicated its acceptance of the License 1) by making a Contribution to the Specification, or 2) by entering into the FINOS Specification Contributor License Agreement for the Specification.  Contributor includes its Affiliates, assigns, agents, and successors in interest.
 
 **9.5.	Control.**  “Control” means direct or indirect control of more than 50% of the voting power to elect directors of that corporation, or for any other entity, the power to direct management of such entity.
 
@@ -80,7 +80,7 @@ This patent licensing commitment does not apply to those claims subject to Contr
 
 **9.8.	Implementation.**  “Implementation” means making, using, selling, offering for sale, importing or distributing any implementation of the Specification 1) only to the extent it implements the Specification and 2) so long as all required portions of the Specification are implemented.
 
-**9.9.	License.**  “License” means this Community Specification License.
+**9.9.	License.**  “License” means this FINOS Specification License.
 
 **9.10.	Licensee.**  “Licensee” means any person or entity that has indicated its acceptance of the License as set forth in Section 2.1.3.  Licensee includes its Affiliates, assigns, agents, and successors in interest.
 
@@ -94,6 +94,6 @@ This patent licensing commitment does not apply to those claims subject to Contr
 
 
 
-*The text of this Community Specification License is Copyright 2020 Joint Development Foundation and is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/.*
+*The text of this FINOS Specification License is Copyright 2020 Joint Development Foundation and is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/.*
 
 SPDX-License-Identifier: CC-BY-4.0

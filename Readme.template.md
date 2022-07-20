@@ -27,5 +27,5 @@ Find the next meeting on the [FINOS projects calendar]({https://calendar.google.
 
 ## License
 
-This project uses the **Community Specification License 1.0** ; you can read more in the [LICENSE](LICENSE) file.
+This project uses the **FINOS Specification License 1.0** ; you can read more in the [LICENSE](LICENSE) file.
 

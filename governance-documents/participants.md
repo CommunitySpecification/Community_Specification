@@ -1,5 +1,5 @@
 # Participants enrolled in the {standard name} project
-Below is the list of [participants](governance-documents/5._Governance.md#1roles) in the CML Reference Data standard, who have committed to the [Community Specification Contributor License Agreement](governance-documents/0._CS_Contributor_License_Agreement.md).
+Below is the list of [participants](governance-documents/5._Governance.md#1roles) in the CML Reference Data standard, who have committed to the [FINOS Specification Contributor License Agreement](governance-documents/0._CS_Contributor_License_Agreement.md).
 
 ## Participants
 - Name, organization, Date of enrollment: MMM/DD/YYYY
