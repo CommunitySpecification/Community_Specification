@@ -21,3 +21,10 @@ A second difference is that common open source software and specification licens
 ## Who developed the Community Specification
 
 The Community Specification has been developed via the [Joint Development Foundation](http://www.jointdevelopment.org), with inspiration from the [Open Web Foundation agreements](http://openwebfoundation.org) and the [Alliance for Open Media Patent License 1.0](http://aomedia.org/license/patent-license/).
+
+The SPDX Identifier for the Community Specification V1.0 is, [`Community-Spec-1.0`](https://spdx.org/licenses/Community-Spec-1.0.html).
+
+The statement to insert on files to represent this license is:
+
+![APM license](https://img.shields.io/badge/License-Community_Spec-brightgreen)
+
