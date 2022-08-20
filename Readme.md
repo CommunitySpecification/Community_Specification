@@ -32,6 +32,6 @@ A badge indicating the Community Spec v1.0 license can be added to a MarkDown fi
 
 `![Community-Spec-1.0 license](https://img.shields.io/badge/License-Community--Spec--1.0-brightgreen)`
 
-This badge displayes as:
+This badge displays as:
 
 ![Community-Spec-1.0 license](https://img.shields.io/badge/License-Community--Spec--1.0-brightgreen)
