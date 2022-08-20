@@ -22,9 +22,16 @@ A second difference is that common open source software and specification licens
 
 The Community Specification has been developed via the [Joint Development Foundation](http://www.jointdevelopment.org), with inspiration from the [Open Web Foundation agreements](http://openwebfoundation.org) and the [Alliance for Open Media Patent License 1.0](http://aomedia.org/license/patent-license/).
 
-The SPDX Identifier for the Community Specification V1.0 is, [`Community-Spec-1.0`](https://spdx.org/licenses/Community-Spec-1.0.html).
+## SDPX License Identifier
 
-The statement to insert on files to represent this license is:
+The SPDX short-form license statement (to be used in source files and documentation) for the [Community Specification v1.0](https://spdx.org/licenses/Community-Spec-1.0.html) license is:
 
-![APM license](https://img.shields.io/badge/License-Community_Spec-brightgreen)
+* **SPDX-License-Identifier: Community-Spec-1.0**
 
+A badge indicating the Community Spec v1.0 license can be added to a MarkDown file with the following text:
+
+`![Community-Spec-1.0 license](https://img.shields.io/badge/License-Community--Spec--1.0-brightgreen)`
+
+This badge displayes as:
+
+![Community-Spec-1.0 license](https://img.shields.io/badge/License-Community--Spec--1.0-brightgreen)
