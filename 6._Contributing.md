@@ -2,7 +2,7 @@
 
 This document provides the contribution policy for specifications and other documents developed using the Community Specification process in a repository (each a “Working Group”).  Additional or alternate contribution policies may be adopted and documented by the Working Group.
 
-## 1.	Contribution Guidelines. 
+## 1.	Contribution Guidelines.
 
 This Working Group accepts contributions via pull requests. The following section outlines the process for merging contributions to the specification
 
@@ -58,7 +58,7 @@ o	It is preferred, but not required, to have a pull request tied to a specific i
 
 **4.2.	Triage**
 
-o	The Editor in charge of triaging will apply the proper labels for the issue. This should include at least a size label, a milestone, and awaiting review once all labels are applied. 
+o	The Editor in charge of triaging will apply the proper labels for the issue. This should include at least a size label, a milestone, and awaiting review once all labels are applied.
 
 **4.3.	Reviewing/Discussion.**
 
