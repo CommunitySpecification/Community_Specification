@@ -22,7 +22,7 @@ A second difference is that common open source software and specification licens
 
 The Community Specification has been developed via the [Joint Development Foundation](http://www.jointdevelopment.org), with inspiration from the [Open Web Foundation agreements](http://openwebfoundation.org) and the [Alliance for Open Media Patent License 1.0](http://aomedia.org/license/patent-license/).
 
-## SDPX License Identifier
+## SPDX License Identifier
 
 The SPDX License Identifier for the [Community Specification v1.0](https://spdx.org/licenses/Community-Spec-1.0.html) license is: `Community-Spec-1.0`.
 
