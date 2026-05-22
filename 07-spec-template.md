@@ -8,12 +8,12 @@ A model manuscript of a draft International Standard (known as “The Rice Model
 
 In addition, we recommend using the key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" as described in RFC 2119 - https://tools.ietf.org/html/rfc2119
 
-
+ 
 ## Title
 ### Version _______
 ### Status (Pre-draft, Draft, Approved)
 
-
+ 
 © _________________
 
 This specification is subject to the Community Specification License 1.0, available at [https://github.com/CommunitySpecification/1.0](https://github.com/CommunitySpecification/1.0).
@@ -42,7 +42,7 @@ Introduction	i
 
 6	Clause title	1
 
-Annex A (informative)
+Annex A (informative)  
 
 Bibliography	1
 
@@ -68,7 +68,7 @@ THESE MATERIALS ARE PROVIDED “AS IS.” The Contributors and Licensees express
 Introduction
 Type text.
 
-
+ 
 ## Title (Introductory element — Main element — Part : Part title)
 
 1	Scope (mandatory)
@@ -135,7 +135,7 @@ term
 
 text of the definition
 
-4	Clause title
+4	Clause title 
 
 Type text.
 
@@ -145,9 +145,9 @@ Type text.
 
 Use subclauses if required e.g. 5.1 or 5.1.1. For example:
 
-5.1	Subclause
+5.1	Subclause 
 
-5.1.1	Subclause
+5.1.1	Subclause 
 
 6	Clause title
 
